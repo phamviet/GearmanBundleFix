@@ -7,16 +7,16 @@ Install:
 --------
 Symfony 2.0.x
 
-    + deps
+`deps`
 
     [GearmanBundleFix]
     git=git://github.com/phthviet/GearmanBundleFix.git
     target=/bundles/Phthviet/GearmanBundleFix
 
-    + autoload.php
+`autoload.php`
 
     'Phthviet'         => __DIR__ . '/../vendor/bundles/Phthviet/GearmanBundleFix/src'
-    
+
 Symfony 2.1.x
 
     "require": {
