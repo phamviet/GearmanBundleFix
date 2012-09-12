@@ -1,5 +1,5 @@
 {
-    "name": "phthviet/gearman-bundle-fix",
+    "name": "Phthviet/GearmanBundleFix",
     "description": "Fix some hot issue from mmoreramerino/GearmanBundle",
     "keywords": ["gearman", "mmoreramerino/GearmanBundle"],
     "homepage": "https://github.com/phthviet/GearmanBundleFix",
@@ -17,6 +17,5 @@
     },
     "autoload": {
         "psr-0": { "Phthviet\\GearmanBundle": "src/" }
-    },
-    "target-dir": "Phthviet/GearmanBundleFix/"
+    }
 }
