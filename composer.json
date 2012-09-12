@@ -1,5 +1,5 @@
 {
-    "name": "Phthviet/GearmanBundleFix",
+    "name": "phthviet/gearman-bundle-fix",
     "description": "Fix some hot issue from mmoreramerino/GearmanBundle",
     "keywords": ["gearman", "mmoreramerino/GearmanBundle"],
     "homepage": "https://github.com/phthviet/GearmanBundleFix",
