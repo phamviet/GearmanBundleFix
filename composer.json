@@ -16,6 +16,7 @@
         "mmoreramerino/GearmanBundle": "*"
     },
     "autoload": {
-        "psr-0": { "Phthviet\\GearmanBundle": "src/" }
-    }
+        "psr-0": { "Phthviet\\GearmanBundle": "Phthviet/GearmanBundleFix/src" }
+    },
+    "target-dir": "Phthviet/GearmanBundleFix"
 }
