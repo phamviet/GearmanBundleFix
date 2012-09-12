@@ -1,0 +1,22 @@
+{
+    "name": "Phthviet/GearmanBundleFix",
+    "description": "Fix some hot issue from mmoreramerino/GearmanBundle",
+    "keywords": ["gearman", "mmoreramerino/GearmanBundle"],
+    "homepage": "https://github.com/phthviet/GearmanBundleFix",
+    "type": "symfony-bundle",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Viet Pham",
+            "email": "phpcodervn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "mmoreramerino/GearmanBundle": "*"
+    },
+    "autoload": {
+        "psr-0": { "Phthviet\\GearmanBundle": "src/" }
+    },
+    "target-dir": "Phthviet/GearmanBundleFix/"
+}
